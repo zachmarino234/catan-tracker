@@ -1,42 +1,11 @@
-# sv
+# Catan Tracker
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Track your catan games, rolls, players, etc. in a locally hosted webapp
 
-## Creating a project
+## Project Goals
 
-If you're seeing this, you've probably already done this step. Congrats!
+The goal of this project is to create a useful webapp around a board game I love and learn some new skills in the process. This website is being developed using Typescript and Svelte, which is a departure from my usual paradigm of React.  
 
-```sh
-# create a new project
-npx sv create my-app
-```
+## Installation
 
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv@0.15.3 create --template minimal --types jsdoc --add prettier vitest="usages:unit,component" --install npm catan-tracker
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+TBD!
