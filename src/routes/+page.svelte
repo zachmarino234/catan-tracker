@@ -2,8 +2,7 @@
   import Button from '../components/button.svelte';
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Catan Tracker</h1>
 <Button text="1: " />
 <Button text="2: " />
 <Button text="3: " />

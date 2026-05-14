@@ -9,8 +9,9 @@
 
 <style>
   /* Scoped styles: only affects this component */
-  p {
+  button {
     color: #ff3e00;
+    font-size: 1.2em;
     font-weight: bold;
   }
 </style>
